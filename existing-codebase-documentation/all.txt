@@ -1,2 +1,0 @@
-Read the .txt fiels in docs, and launch a subagent for each one. 
-The text files themselves contain prompts to give to the agents. Each one asks to write a file, put it in the same docs folder as a .md file

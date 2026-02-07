@@ -13,3 +13,16 @@ Files generated:
     - If you want opionated style guides, check out the 'style-guides' folder in this repo
 
 
+
+## Usage:
+1. Create a `docs/` folder in your codebase,
+2. Copy all prompt .txt files into the folder
+3. Run this basic prompt in claude-code, or your assistant of choice:
+    ```
+    Read the .txt fiels in docs/, and launch a subagent for each one. 
+    The text files themselves contain prompts to give to the agents. Each one asks the agent to analyze the codebase nad output a documentation file. Put them all in the docs folder. 
+
+    These should be generated in order, overview, then technologies, repo-structure, then style-guide. 
+
+    When you're done, remove the original prompt .txt files
+    ```
