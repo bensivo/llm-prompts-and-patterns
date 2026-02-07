@@ -1,0 +1,14 @@
+Analyze this codebase and generate a file called overview.md containing a high-level description of what this project is.
+
+Include:
+- A brief summary of the project's purpose and what problem it solves
+- What kidn of application this is (a webapp, a microservice, a desktop app, a collection of scripts)
+- Key features or capabilities
+
+Keep the document concise but comprehensive. Use clear headings and bullet points where appropriate.
+
+Exclude (we'll cover these with other docs):
+- A list of technolgoies
+- Techncial architecture of the project
+- Codebase design
+- Descriptino of folder structure

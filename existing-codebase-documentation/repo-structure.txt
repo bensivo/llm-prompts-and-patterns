@@ -1,0 +1,16 @@
+Analyze this codebase and generate a file called repo-structure.md that documents the layout of this repository.
+
+Include:
+- Top-level directory structure with descriptions of each folder's purpose
+- Location of source code
+- Location of tests
+- Location of documentation
+- Location of configuration files
+- Location of build outputs or artifacts
+- Any scripts or tooling directories
+
+Use a tree-like format or clear hierarchical structure. Include brief descriptions of what each major directory contains and its role in the project.
+
+Exclude:
+- Internal project folders that are self-explanatory, like ".claude", ".github", ".vscode"
+- A description of specific files that are obvious, like LICENSE.md, or README.md

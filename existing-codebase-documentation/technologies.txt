@@ -1,0 +1,15 @@
+Analyze this codebase and generate a file called technologies.md that lists the technologies used in this project.
+
+Include:
+- Programming languages and their versions (if specified)
+- Large Frameworks (frontend, backend, testing, etc.)
+- Important libraries, which are significant enough to influence the design of the codebase
+    - e.x. UI Framerowks or Component libraries, State management libraries, 
+    - Not significant, node.js's axios, python requests
+- Build tools and package managers
+- Database or storage technologies
+- Any other significant technical components
+
+For each technology, briefly note what it's used for in this project. Organize by category (e.g., Frontend, Backend, Testing, DevOps).
+
+Include major versions of each tech, but leave out non-significant libraries or patch anand minor versions. 
