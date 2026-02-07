@@ -26,3 +26,8 @@ Files generated:
 
     When you're done, remove the original prompt .txt files
     ```
+
+## TODO:
+- add prompt to discover and document core user-flows and data-flows in the codebase. 
+- add prompt to create a 'domain-knowledge' file, with key concepts and terms that seem to be relevant in udnerstanding this codebase.
+- add a prompt to turn these core data flows into manual test plans (or at least prototypes).
